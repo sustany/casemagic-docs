@@ -1,5 +1,7 @@
 # CaseMagic MCP server
 
+[![CaseMagic MCP connector](https://glama.ai/mcp/connectors/io.github.sustany/casemagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sustany/casemagic)
+
 **Watch US federal court cases for new filings and keep a Case Passport any AI assistant can load.**
 
 CaseMagic is a hosted [Model Context Protocol](https://modelcontextprotocol.io) server. It re-reads a federal court docket on a schedule, tells you when anything new is filed, and keeps a persistent record of the case, called the Case Passport. That record is the same in ChatGPT, Claude, Gemini, Grok, Perplexity or any other MCP client.
@@ -24,6 +26,8 @@ This repository holds documentation only. The server is hosted; there is nothing
 **Cursor:** [![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=casemagic&config=eyJ1cmwiOiJodHRwczovL2Nhc2VtYWdpYy5haS9tY3AifQ%3D%3D)
 
 **VS Code:** [Install in VS Code](https://insiders.vscode.dev/redirect/mcp/install?name=casemagic&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fcasemagic.ai%2Fmcp%22%7D)
+
+**Cline:** see [llms-install.md](llms-install.md).
 
 **Any other client:**
 
