@@ -81,6 +81,8 @@ The same court data is published as public pages, free and without an account:
 - [Federal filings by day](https://casemagic.ai/filings)
 - Guides by kind of case: [credit report lawsuits](https://casemagic.ai/lawsuits/credit-report-lawsuits), [immigration delay lawsuits](https://casemagic.ai/lawsuits/immigration-delay-lawsuits), [immigration detention habeas petitions](https://casemagic.ai/lawsuits/immigration-detention-habeas), [Social Security appeals](https://casemagic.ai/lawsuits/social-security-appeals), [Strike 3 Holdings lawsuits](https://casemagic.ai/lawsuits/strike-3-holdings-lawsuits)
 - [Look up a federal case by number](https://casemagic.ai/federal-case-number-lookup)
+- [Strike 3 Holdings IP address lookup](https://casemagic.ai/strike-3-ip-lookup): has your IP address been named in a new Strike 3 case?
+- [Guía en español: habeas corpus para una persona detenida por ICE](https://casemagic.ai/es/habeas-corpus-detencion-migratoria)
 
 ## Links
 
