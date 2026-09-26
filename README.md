@@ -72,6 +72,16 @@ Try it without signing in: *"Check federal case 1:23-cv-11195 in the Southern Di
 - Every answer says where it came from and when the docket was read. It is not real time.
 - CaseMagic reports what a court source says. It is not a law firm and does not give legal advice.
 
+## Browse federal cases on the web
+
+The same court data is published as public pages, free and without an account:
+
+- [Every federal district court](https://casemagic.ai/courts), each with the cases that moved there recently
+- [Companies sued in federal court lately](https://casemagic.ai/sued) and [plaintiffs filing many suits](https://casemagic.ai/plaintiffs)
+- [Federal filings by day](https://casemagic.ai/filings)
+- Guides by kind of case: [credit report lawsuits](https://casemagic.ai/lawsuits/credit-report-lawsuits), [immigration delay lawsuits](https://casemagic.ai/lawsuits/immigration-delay-lawsuits), [immigration detention habeas petitions](https://casemagic.ai/lawsuits/immigration-detention-habeas), [Social Security appeals](https://casemagic.ai/lawsuits/social-security-appeals), [Strike 3 Holdings lawsuits](https://casemagic.ai/lawsuits/strike-3-holdings-lawsuits)
+- [Look up a federal case by number](https://casemagic.ai/federal-case-number-lookup)
+
 ## Links
 
 [Pricing](https://casemagic.ai/pricing) · [Privacy](https://casemagic.ai/privacy) · [Terms](https://casemagic.ai/terms) · [Security](https://casemagic.ai/security) · Support: support@casemagic.ai
