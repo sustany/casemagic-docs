@@ -1,6 +1,7 @@
 # CaseMagic MCP server
 
 [![CaseMagic MCP connector](https://glama.ai/mcp/connectors/io.github.sustany/casemagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sustany/casemagic)
+[![Listed on Smithery](https://img.shields.io/badge/Smithery-listed-orange)](https://smithery.ai/server/chris-xz71/casemagic)
 
 **Watch US federal court cases for new filings and keep a Case Passport any AI assistant can load.**
 
