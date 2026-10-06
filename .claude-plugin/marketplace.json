@@ -1,0 +1,20 @@
+{
+  "name": "casemagic",
+  "owner": {
+    "name": "CaseMagic (Decentralized Publishing LLC)",
+    "email": "support@casemagic.ai"
+  },
+  "metadata": {
+    "description": "CaseMagic plugins for Claude: check, understand and watch US federal court cases."
+  },
+  "plugins": [
+    {
+      "name": "casemagic",
+      "source": "./casemagic",
+      "description": "Federal court case lookup and monitor: check any US federal case free, then watch it for new filings.",
+      "version": "1.1.0",
+      "category": "legal",
+      "homepage": "https://casemagic.ai/claude"
+    }
+  ]
+}
