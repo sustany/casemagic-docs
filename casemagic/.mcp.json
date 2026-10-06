@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "casemagic": {
+      "type": "http",
+      "url": "https://casemagic.ai/mcp"
+    }
+  }
+}

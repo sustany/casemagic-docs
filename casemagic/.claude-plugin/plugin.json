@@ -1,0 +1,23 @@
+{
+  "name": "casemagic",
+  "version": "1.1.0",
+  "description": "Federal court case lookup and monitor. Find any US federal district court case by number and check its status, judge, latest filings, docket activity, documents and stated deadlines, free with no account; then have CaseMagic watch it and alert you whenever something new is filed.",
+  "author": {
+    "name": "CaseMagic (Decentralized Publishing LLC)",
+    "email": "support@casemagic.ai",
+    "url": "https://casemagic.ai"
+  },
+  "homepage": "https://casemagic.ai/claude",
+  "repository": "https://github.com/sustany/casemagic-docs",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "court",
+    "docket",
+    "federal-court",
+    "pacer",
+    "litigation",
+    "case-monitoring",
+    "lawsuit"
+  ]
+}
