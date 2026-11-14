@@ -4,6 +4,14 @@ Check, understand and watch United States federal court cases from Claude.
 
 CaseMagic reads federal district court dockets and keeps watching the ones you care about. This plugin connects Claude to CaseMagic's hosted MCP server and adds five skills that know how to use it well.
 
+## Install
+
+In Claude Code (2.1.275 or later):
+
+```
+/plugin install casemagic --marketplace sustany/casemagic-docs
+```
+
 ## What you can ask
 
 - "Check federal case 1:23-cv-11195 in the Southern District of New York."
