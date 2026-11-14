@@ -1,7 +1,7 @@
 {
   "name": "casemagic",
   "displayName": "CaseMagic",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Federal court case lookup and monitor. Find any US federal district court case by number and check its status, judge, latest filings, docket activity, documents and stated deadlines, free with no account; then have CaseMagic watch it and alert you whenever something new is filed.",
   "author": {
     "name": "CaseMagic (Decentralized Publishing LLC)",
